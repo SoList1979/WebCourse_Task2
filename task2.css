@@ -322,11 +322,14 @@ li {
 .center-text {
     text-align: center;
 }
-
-p {
+s .left-text {
+    width: 95%;
     text-align: left;
-    /* font-size: 1.8vh; */
 }
+
+/* p {
+    text-align: left;
+} */
 
 a {
     color: #ff0033;
