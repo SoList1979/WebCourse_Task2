@@ -358,6 +358,9 @@ a:active {
 
 html {
     scroll-behavior: smooth;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
 
 /* === РАДИО / ЧЕКБОКСЫ === */
